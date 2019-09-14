@@ -363,4 +363,5 @@
     <migrationTask xmi:id="_r1XXh9bUEemGd7tnCikC8A" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_pw6L8tbUEemGd7tnCikC8A" login="security@company.com" firstName="security" lastName="security" type="DI" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_D9_00dbeEemNQ4xVqgVhbw" login="sreekanth@gmail.com" firstName="sreekanth" lastName="Appala" type="DI" additionnalData="{}"/>
 </xmi:XMI>
